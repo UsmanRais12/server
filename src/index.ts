@@ -33,4 +33,3 @@ app.listen(8000,()=>{
     console.log("This app is running on localhost:8000")
 })
 
-//password: abcDEFG456
